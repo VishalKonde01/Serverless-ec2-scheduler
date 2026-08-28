@@ -1,0 +1,22 @@
+# AWS credentials
+.aws/
+*.pem
+*.key
+
+# Environment variables
+.env
+.env.*
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.dbs
