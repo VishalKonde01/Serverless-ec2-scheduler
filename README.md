@@ -280,7 +280,7 @@ ec2-scheduler-project/
 
 The EC2 instance used for the automation.
 
-![EC2 Instance](screenshots/01-ec2-instance.png)
+![EC2 Instance](screenshots/01-ec2-instance.png.png)
 
 ---
 
@@ -288,7 +288,7 @@ The EC2 instance used for the automation.
 
 Tag added to the EC2 instance for dynamic instance selection.
 
-![EC2 Tag](screenshots/02-ec2-tag.png)
+![EC2 Tag](screenshots/02-ec2-tag.png.png)
 
 ---
 
@@ -296,7 +296,7 @@ Tag added to the EC2 instance for dynamic instance selection.
 
 AWS Lambda function created using Python 3.13.
 
-![Lambda Function](screenshots/03-lambda-function.png)
+![Lambda Function](screenshots/03-lambda-function.png.png)
 
 ---
 
@@ -304,7 +304,7 @@ AWS Lambda function created using Python 3.13.
 
 IAM policy attached to the Lambda execution role.
 
-![IAM Policy](screenshots/04-iam-policy.png)
+![IAM Policy](screenshots/04-iam-policy.png.png)
 
 ---
 
@@ -312,7 +312,7 @@ IAM policy attached to the Lambda execution role.
 
 Lambda tested using the start action.
 
-![Lambda Start Test](screenshots/05-lambda-test-start.png)
+![Lambda Start Test](screenshots/05-lambda-test-start.png.png)
 
 ---
 
@@ -320,7 +320,7 @@ Lambda tested using the start action.
 
 Lambda tested using the stop action.
 
-![Lambda Stop Test](screenshots/06-lambda-test-stop.png)
+![Lambda Stop Test](screenshots/06-lambda-test-stop.png.png)
 
 ---
 
@@ -328,7 +328,7 @@ Lambda tested using the stop action.
 
 EventBridge Scheduler configured to invoke Lambda every day at 6:00 AM.
 
-![EventBridge Start Schedule](screenshots/07-eventbridge-start.png)
+![EventBridge Start Schedule](screenshots/07-eventbridge-start.png.png)
 
 ---
 
@@ -336,7 +336,7 @@ EventBridge Scheduler configured to invoke Lambda every day at 6:00 AM.
 
 EventBridge Scheduler configured to invoke Lambda every day at 12:00 AM.
 
-![EventBridge Stop Schedule](screenshots/08-eventbridge-stop.png)
+![EventBridge Stop Schedule](screenshots/08-eventbridge-stop.png.png)
 
 ---
 
@@ -344,7 +344,7 @@ EventBridge Scheduler configured to invoke Lambda every day at 12:00 AM.
 
 EC2 instance successfully started and stopped according to the configured schedule.
 
-![Successful Execution](screenshots/09-successful-execution.png)
+![Successful Execution](screenshots/09-successful-execution.png.png)
 
 ---
 
